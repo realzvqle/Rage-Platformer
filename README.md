@@ -1,2 +1,2 @@
 # Rage-Platformer
-A Small rage-based game im working on
+the source is based on the prototype, I am not planning to upgrade the source to newer version to combat clones and cheaters
